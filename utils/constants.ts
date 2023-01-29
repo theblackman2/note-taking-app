@@ -7,3 +7,7 @@ export const AuthRoutes = {
   login: "Login",
   signup: "Signup"
 }
+
+export const storageKeys = {
+  token: "TOKEN"
+}
